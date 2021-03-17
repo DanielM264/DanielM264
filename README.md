@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Daniel
+- 🌱 I’m currently studying a Bachelor of Computer Science (Cyber Security) at QUT
