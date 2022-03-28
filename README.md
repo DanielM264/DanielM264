@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Daniel
-- 🌱 I’m currently studying a Bachelor of Computer Science (Cyber Security) at QUT
+- 🌱 I’m currently in my second year of studying a Bachelor of IT (Maj: Computer Science Min:Cyber Security, Intelligent Systems)
