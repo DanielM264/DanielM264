@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Daniel
 - 🌱 I’m currently in my second year of studying a Bachelor of IT (MAJ: Computer Science MIN: Cyber Security, Intelligent Systems)
+- 😊 I'm very interested in developing my skills in all areas related to IT as I find them very enjoyable
